@@ -25,3 +25,7 @@ Este es un juego clásico de piedra, papel o tijera diseñado para dos jugadores
 
 ```bash
 python juego.py
+
+piedra_papel_tijera/
+├── juego.py
+└── README.md
